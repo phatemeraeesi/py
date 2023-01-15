@@ -1,0 +1,5 @@
+Mahsa pakniyat:
+inp = int(input())
+while not inp:
+    # your code
+    inp = int(input())
